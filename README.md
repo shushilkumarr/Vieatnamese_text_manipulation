@@ -2,7 +2,7 @@
 
 this is a simple text manipulation program that decodes the vietnamese text and finds the words using a key in the desending order of its frequency.
 
-## Algorithmm
+## Algorithm
 
 1) first step is to analyse the character mappings given in the text file.
 2) replace the parts of words by matching the mappings.
